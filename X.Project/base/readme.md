@@ -12,7 +12,9 @@ docker build -rm -t images-name ./conf/docker/
 
 ## Library
 
-+ numpy
++ [numpy](http://www.numpy.org/)
++ [pytest](https://docs.pytest.org/en/latest/)
++ [pycodestyle](https://pypi.org/project/pycodestyle/)
 
 ## Script
 
